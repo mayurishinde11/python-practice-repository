@@ -55,10 +55,13 @@
 # Print results
 
 
-subject1=float(input("Enter Marks For Subject 1: "))
-subject2=float(input("Enter Marks For Subject 2: "))  
-subject3=float(input("Enter Marks For Subject 3: "))
-Total_Marks= subject1+subject2+subject3
-Average_Of_Marks=Total_Marks/3
-print("Total Marks: ", Total_Marks)
-print("Average Of Marks: ", Average_Of_Marks)
+# subject1=float(input("Enter Marks For Subject 1: "))
+# subject2=float(input("Enter Marks For Subject 2: "))  
+# subject3=float(input("Enter Marks For Subject 3: "))
+# Total_Marks= subject1+subject2+subject3
+# Average_Of_Marks=Total_Marks/3
+# print("Total Marks: ", Total_Marks)
+# print("Average Of Marks: ", Average_Of_Marks)
+
+
+
