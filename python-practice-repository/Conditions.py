@@ -95,5 +95,5 @@ if age >=18:
         print("Congratulations You Are Eligible For Student Discount...")
     else:
         print("Sorry, You Are Not eligible For student Discount....")
-# else:
-#     print("Child Ticket....")
+else:
+    print("Child Ticket....")
