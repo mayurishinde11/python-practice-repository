@@ -41,7 +41,7 @@
 #     print(5*i)
 
 
-n=1
-while n <=10:
-    print(5*n)
-    n=n+1
+# n=1
+# while n <=10:
+#     print(5*n)
+#     n=n+1
