@@ -1,0 +1,62 @@
+/* Main App Background */
+.stApp {
+    background-color: #0f172a;
+    color: white;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #111827;
+}
+
+/* Habit Cards */
+.habit-card {
+    background-color: #1e293b;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #334155;
+}
+
+/* Habit Title */
+.habit-title {
+    font-size: 24px;
+    font-weight: bold;
+    color: #f8fafc;
+}
+
+/* Streak Text */
+.streak-text {
+    font-size: 18px;
+    color: #38bdf8;
+}
+
+/* AI Prediction */
+.ai-text {
+    font-size: 16px;
+    color: #22c55e;
+}
+
+/* Buttons */
+.stButton button {
+    width: 100%;
+    border-radius: 10px;
+    height: 45px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Dashboard Title */
+.dashboard-title {
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+/* Analytics Box */
+.analytics-box {
+    background-color: #1e293b;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
